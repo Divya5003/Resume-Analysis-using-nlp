@@ -1,0 +1,22 @@
+Database developer
+Responsibilities:
+Design stable, reliable and effective databases
+Optimize and maintain legacy systems
+Modify databases according to requests and perform tests
+Solve database usage issues and malfunctions
+Gather user requirements and identify new features
+Develop technical and training manuals
+Provide data management support to users
+Ensure all database programs meet company and performance requirements
+Research and suggest new database products, services and protocols
+Experience: 3-5 years
+Requirements and skills: 
+Proven work experience as a Database developer
+In-depth understanding of data management (e.g., permissions, recovery, security and monitoring)
+Knowledge of software development and user interface web applications
+Hands on experience with SQL
+Familiarity working with .Net Framework, JavaScript, HTML and Oracle
+Excellent analytical and organization skills
+An ability to understand front-end users requirements and a problem-solving attitude
+4 years of Bachelor's degree in Computer Science / Information Technology is preferable  
+

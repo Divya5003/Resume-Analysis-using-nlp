@@ -1,0 +1,140 @@
+ (cid:211) 9665582709
+
+ﬂ www.linkedin.com/in/aﬀan-shaikh
+
+AFFAN SHAIKH
+
+Software Engineer
+[ aﬀanshaikh9853@gmail.com
+
+EDUCATION
+
+Bachelors in Information Technology
+Vishwakarma Institute of Technology CGPA: 9.53/10
+(cid:17) 2016 - 2020
+Course work: Data Structures, Object Oriented Program-
+ming, Design and Analysis of Algorithms.
+Positions: Co-Lead, Explore ML Facilitator Google’s Devel-
+oper Student Club, Head GedIT Coding Club
+EXPERIENCE
+
+Technology Analyst
+Credit Suisse
+(cid:17) Aug 2020 – Present
+
+• Working on analyzing 3rd party NLP services for Bloomberg
+chats. Built NLP validation pipeline and reduced time com-
+plexity of look up table to 99.94% for 56,400 tickers.
+
+• Working on Full Stack Notiﬁcation System (ReactJS, .Net,
+
+SQL). Application to work across 7 internal projects. Com-
+plete SDLC from requirement gathering, database design to
+deployment.
+
+• Built Automation Script for 50 test cases for Client 360 project
+
+using Cucumber Framework (Java).
+
+• Solved problem of conﬁdentiality of interacting with 3rd party
+applications by developing client masking tool to process 30
+Million+ lines of XML chat with 10 ﬁelds. (Python).
+
+• Performed clustering and data generation for 31,000 Bonds
+and 8,000 Issuers to provide data for 3rd party Applications
+(SQL, Rest API, Python).
+
+Technology Intern
+Credit Suisse
+(cid:17) May 2019 – July 2019
+
+• Built AutoML Framework for Stock Market Internal data for 8
+adjustable hyper parameters (Python) and developed logging
+feature in Automation Suite for FIX messages (C++) in linux
+environment.
+
+Student Intern
+FinIQ Pvt Ltd
+(cid:17) May 2018 – July 2018
+
+• Built Automation Script for 30 test cases of FIX portal (Java,
+Selenium) and created Desktop app for Options and Bonds
+pricing (Java).
+
+Student Intern
+Figolive Pvt Ltd
+(cid:17) Aug 2019 – Nov 2019
+
+• Developed research prototype on detecting anomalies in 3
+year stock market data using LSTM (Python) and Fixed 20+
+bugs for cross platform hybrid health care app (Ionic + Angu-
+lar)
+
+SKILLS
+
+Tech Stack: C++, Python, Java, HTML, CSS,
+JavaScript, ReactJs, SQL, Github, JIRA
+
+Domains: Machine learning, Deep Learning,
+Natural Language Processing, Web Devel-
+opment, Database Management
+
+ACHIEVEMENTS
+
+• Featured in top 26 Star Performers of 2020
+from 900+ employees in Credit and Client
+Town hall.
+
+• Awarded 3 Employee recognition gold bars
+(RAVE- Recognizing and valuing excellence)
+for SQL, Data Analytics, Team work and con-
+tribution towards Global Coding Challenge.
+
+• Invited as a speaker for guiding 120+ students
+across Maharashtra for placements and engi-
+neering at Developer Student Club VIT.
+
+• Stood in top 6 amongst 3600 participants
+
+across India for individual hackathon (CodeIT
+Suisse) on Machine Learning, hosted by Credit
+Suisse (Mar 2019).
+
+• Selected in top 5 business pitches in Credit
+
+Suisse internal hackathon (Oct 2020).
+
+• Selected in top 300 students from all over
+
+India for Google’s Tech Intern Connect (2019).
+
+• 1st runner up from 25 participating teams at
+
+TRF Robosub Hackathon (2018).
+
+PROJECTS
+
+HybridX- Abusive Language Detector
+• Solved the problem of training LSTM of
+
+50,000+ parameters with a dataset of 17,000
+entries using election voting algorithm with
+Random Forest and Logistic Regression.
+Python
+
+OMKNN - Optimized Modiﬁed K-Nearest
+Neighbour
+• Proposed and developed a new algorithm
+(OMKNN). Reduced Space Complexity for
+KNN- Algorithm by 33%. ( Python)
+(Research Paper submitted to Springer book,
+waiting for acceptance)
+
+Distributed Key Value Store
+• Simulation of Distributed system with load
+
+balancing using consistent hashing for 150+
+nodes of 5 diﬀerent clients. Inspired by Ama-
+zon’s Dynamo DB. (Java)
+
+

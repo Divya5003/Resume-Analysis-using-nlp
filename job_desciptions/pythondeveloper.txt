@@ -1,0 +1,36 @@
+Experience: 3 to 4 years of experience in Python, with knowledge of at least one Python web framework Flask, Django. Expert in server programming, you should be able to implement complex business logic Good understanding of the threading limitations of Python, and multi- process architecture Good understanding of fundamental design principles behind a scalable application Knowledge of event- driven programming.
+
+Required Skills:
+Expert in Python, with knowledge of at least one Python web framework Flask, Django.
+Expert in server programming, you should be able to implement complex business logic.
+Good understanding of the threading limitations of Python, and multi- process architecture.
+Good understanding of fundamental design principles behind a scalable application.
+Knowledge of event- driven programming in Python.
+Strong unit test and debugging skills.
+Knowledge of AWS cloud and python Boto lib.
+Knowledge of mongo- db.
+Proficient understanding of code versioning tools Like Git.
+Good understanding of Linux OS.
+Knowledge of nltk, scikit, numpy would be an advantage.
+Excellent communication skills.
+Self- motivated and driven.
+Roles and Responsibilities:
+You will develop and extend the Turabit platform.
+You will work on large data sets.
+You will provide data visualization for the platform.
+Writes and executes complete testing plans, protocols, and documentation for assigned portion of the application; identifies and debugs, and creates solutions for issues with code and integration into the application architecture.
+Designs enhancements, updates, and programming changes for portions and subsystems of end- user. applications software running on local, networked, and Internet- based platforms.
+Collaborates and communicates with management, internal, and outsourced development partners regarding software applications design status, project progress, and issue resolution.
+Benefits:
+Excellent Salary Compensation.
+Employee friendly corporate work culture.
+Exposure to interact with foreign clients.
+Timings are flexible with Saturday and Sunday Off.
+Lucrative Rewards and Recognition.
+Why Should You Join Us
+Work Culture: Working under friendly and Cool environment.
+No Politics: We always try to keep away from all sorts of politics.
+Learn and Grow Opportunities: Working will Senior Experts on live projects will help anybody to grow.
+Opportunities to Work On Technology of Startups Ideas from Scratch.
+Bangalore, India’s IT Silicon Valley
+Work from anywhere, we really least care about the Work Location.

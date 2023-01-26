@@ -1,0 +1,55 @@
+body{
+  /* background-image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechandall.com%2F10-blur-wallpapers-backgrounds-for-your-website%2F&psig=AOvVaw09duFQLAo09NmtILnsqxyc&ust=1670523396968000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPj_ro2Q6PsCFQAAAAAdAAAAABAJ"; */
+  background-image: url("WhatsApp Image 2022-11-22 at 6.44.24 PM.jpeg");
+  background-position: center center;
+  background-size: 100% 100%;
+  /* background-color: rgb(213, 212, 212); */
+}
+.button {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  padding: 16px 42px;
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+  background: #000000;
+  background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#8c8c8c));
+  background: -moz-linear-gradient(top, #000000, #8c8c8c);
+  background: linear-gradient(to bottom, #000000, #8c8c8c);
+  -webkit-box-shadow: #ff5959 0px 0px 0px 0px;
+  -moz-box-shadow: #ff5959 0px 0px 0px 0px;
+  box-shadow: #ff5959 0px 0px 0px 0px;
+  /* text-shadow: #591717 4px 2px 0px; */
+  font: normal normal bold 24px arial;
+  color: #ffffff;
+  text-decoration: none;
+}
+.button:hover,
+.button:focus {
+  background: #8c8c8c;
+  background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#8c8c8c));
+  background: -moz-linear-gradient(top, #000000, #8c8c8c);
+  background: linear-gradient(to bottom, #a0a0a0, #8c8c8c);
+  color: #ffffff;
+  text-decoration: none;
+}
+.button:active {
+  background: #67898e;
+  background: -webkit-gradient(linear, left top, left bottom, from(#67898e), to(#2d2d2d));
+  background: -moz-linear-gradient(top, #67898e, #2d2d2d);
+  background: linear-gradient(to bottom, #67898e, #2d2d2d);
+}
+
+div {
+  margin: auto;
+  width: 60%;
+  padding: 300px;
+  
+  /* width: 600px; */
+
+  /* padding: 10px; */
+}
+a{
+  margin: 20px;
+  /* padding: 40px; */
+}

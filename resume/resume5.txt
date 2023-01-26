@@ -1,0 +1,64 @@
+page 1
+K A N D A C E  L O U D O R
+D A T A  S C I E N T I S T
+C O N T A C T
+kloudor@email.com
+(123) 456-7890
+Mount Laurel, NJ
+LinkedIn
+Github
+E D U C A T I O N
+B.S.
+Statistics
+Rutgers University
+September 2011 - April 2015
+New Brunswick, NJ
+S K I L L S
+Python (NumPy, Pandas,
+Scikit-learn, Keras, Flask)
+SQL (MySQL, Postgres)
+Git
+Time Series Forecasting
+Productionizing Models
+Recommendation Engines
+Customer Segmentation
+AWSW O R K  E X P E R I E N C E
+Data Scientist
+Grubhub
+June 2018 - current/Princeton, NJ
+Deployed a recommendation engine to production to
+conditionally recommend other menu items based on past order
+history, increasing average order size by 7%
+Implemented various time series forecasting techniques to
+predict surge in orders, lowering customer wait by 10 minutes
+Designed a model in a pilot to increase incentives for drivers
+during peak hours, increasing driver availability by 22%
+Led a team of 3 data scientist to model the ordering process 5
+unique ways, reported results, and made recommendations to
+increase order output by 9%
+Data Scientist
+Spectrix Analytical Services
+March 2016 - June 2018/Princeton, NJ
+Built a customer attrition random forest model that improved
+monthly retention by 12 basis points for clients likely to opt-out
+by providing relevant product features for them
+Coordinated with the product and marketing teams to determine
+what kind of client interactions resulted in maximized service
+opt-ins, increasing conversions by 18%
+Partnered with product team to create a production
+recommendation engine in Python that improved the length on-
+page for users with $225K in incremental annual revenue
+Compiled and analyzed data surrounding the prototypes for a
+prosthesis, which saved over $1M in its creation
+Entry-Level Data Analyst
+Avenica
+April 2015 - March 2016/Mount Laurel, NJ
+Collaborated with product managers to perform cohort analysis
+that identiﬁed an opportunity to reduce pricing by 21% for a
+segment of users to boost yearly revenue by $560,000
+Constructed operational reporting in Tableau to improve
+scheduling contractors, saving $90,000 in the annual budget
+Implemented a long-term pricing experiment that improved
+customer lifetime value by 23%
+Ran, submitted, and reported on monthly client enrollments,
+services opted in for, and the employees assigned to clients

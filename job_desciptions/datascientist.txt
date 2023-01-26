@@ -1,0 +1,23 @@
+Data Scientist
+Responsibilities:
+Identify valuable data sources and automate collection processes
+Undertake preprocessing of structured and unstructured data
+Analyze large amounts of information to discover trends and patterns
+Build predictive models and machine-learning algorithms
+Combine models through ensemble modeling
+Present information using data visualization techniques
+Propose solutions and strategies to business challenges
+Collaborate with engineering and product development teams
+Experience: 4-8 years
+Requirements and Skills:
+Proven experience as a Data Scientist or Data Analyst
+Experience in data mining
+Understanding of machine-learning and operations research
+Knowledge of R, SQL and Python; familiarity with Scala, Java or C++ is an asset
+Experience using business intelligence tools (e.g., Tableau) and data frameworks (e.g., Hadoop)
+Analytical mind and business acumen
+Strong math skills (e.g., statistics, algebra)
+Problem-solving aptitude
+Excellent communication and presentation skills
+4 years of Bachelor's degree in Computer Science / Information Technology is preferable  
+

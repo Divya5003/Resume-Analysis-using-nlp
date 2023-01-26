@@ -1,0 +1,19 @@
+Web developer
+Responsibilities:
+Writing well designed, testable, efficient code by using best software development practices
+Creating website layout/user interfaces by using standard HTML/CSS practices
+Integrating data from various back-end services and databases
+Designing user interfaces and navigation menus
+Writing and reviewing code for sites, typically HTML, XML, or JavaScript
+Integrating multimedia content onto a site
+Testing web applications
+Troubleshooting problems with performance or user experience
+Collaborating with designers, developers, and stakeholders
+Experience: 2-3 years
+
+ Requirements and Skills: 
+User experience (UX), User interface (UI), Visual design, Coding languages including HTML and CSS, Frontend web programing languages and skills such as JavaScript, Ajax and web animation techniques, Backend web programing languages such as C# or Java, PHP and Ruby, Design software like Photoshop and Illustrator and Sketch an understanding of SEO, Web servers and how they function
+4 years of Bachelor's degree in Computer Science / Information Technology is preferable 
+Commitment to work for 40 hours /week 
+Good communication skill in English is a must 
+Self-motivated, ambitious, and team player will be preferred

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='resume_comparison.css') }}">
+</head>
+<body>
+    
+    <center>
+        <form method=post enctype=multipart/form-data class="main">
+          <input class="button1" type=file name=file>
+          
+          <label for="job_desc" class="second">Choose the job description </label>
+            <select name="job-desc" id="cars">
+              <option value="appdeveloper" name="appdeveloper">App Developer</option>
+              <option value="databasedeveloper" name="databasedeveloper">Database Developer</option>
+              <option value="datascientist" name="datascientist">Data Scientist</option>
+              <option value="webdeveloper" name="webdeveloper">Web developer</option>
+              <option value="seniorTesting" name="seniorTesting">Senior Engineer for  Software Testing</option>
+              <option value="pythondeveloper" name="pythondeveloper">Python Developer</option>
+              
+
+
+              
+            </select>
+            <input class="button2" type=submit value=Upload>
+        </form>
+        
+      </center>
+      
+    
+</body>
+</html>

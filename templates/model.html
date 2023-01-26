@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home page</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='model.css') }}">
+</head>
+<body>
+	<h1>Upload your resume</h1>
+
+	<form method=post enctype="multipart/form-data">
+	
+	<input class="button1" type="file" name="userfile">
+	<input class="button2" type="submit">
+	</form>
+
+	<div class=page>
+ 		<h1>Suggested jobs</h1>
+  		{% for table in tables %}
+    	
+    	{{ table|safe }}
+  		{% endfor %}
+	</div>
+</body>
+
+</html>

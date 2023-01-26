@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='resume_par.css') }}">
+</head>
+<body>
+    <label for="">Upload your resume </label>
+    <form method=post enctype=multipart/form-data class="main">
+        <input class="button1" type=file name=file>
+        <input class="button2" type=submit value=Upload>
+    
+    <p>Name: {{name}}</p>
+    <p>Mobile number: {{phone}}</p>
+    <p>Email: {{email}}</p>
+    <p>Education: {{education}}</p>
+    
+
+    <p>
+    skills:{% for i in skills %}
+       {{ i }}<span>  </span>
+        {% endfor %}
+    </p>
+      
+    
+</body>
+</html>

@@ -1,0 +1,39 @@
+Open Systems International, Inc. (OSI) www.osii.com is a fast-paced, growing, high technology company, headquartered in Medina, Minnesota. As a world leader in the Operations Technology (OT) field, OSI develops and supplies state-of-the-art energy management, optimization and control software solutions to energy utility companies worldwide.
+
+We currently have openings for Senior Engineer- Software Testing. Specific on-the-job training will be provided. In this position - located in our ITPB, Whitefield, Bangalore, India office - you will have the following responsibilities:
+Work with software development groups that create the product as well as engineering groups that deploy the product.
+Work with scrum team(s) to ensure high quality products and superior customer satisfaction.
+Author, execute and maintain test charters, test cases, procedures and plans, automated test scripts and code.
+Design, develop, implement and improve various test methodologies, plans and automation.
+Review defect descriptions, requirements, and designs to incorporate into test plans.
+Installation automation, test automation, release automation and system administration.
+Build and Configure Continuous Integration setup for test environments.
+Requirements
+
+Minimum
+Bachelor's degree in Computer Science, Software Engineering or equivalent.
+Strong hands-on 2+ years’ experience on Test Automation.
+3 to 6 years of software Quality Assurance / Testing experience.
+Extensive knowledge of industry-leading QA tools and methodologies.
+Strong understanding of automated testing best practices.
+High level scripting skills (Python, Perl, Shell scripting).
+Demonstrated ability in creating and communicating testing status dashboards.
+Proficiency with Linux, Windows and UNIX environments.
+Proficiency with a source control system (such as CVS, Subversion, Git, etc.).
+Excellent written, verbal and interpersonal communication skills; comfortable communicating and working with geographically distributed teams.
+Innate desires to automate, monitor and continually improve everything in sight.
+System Administration experience.
+
+Preferred
+Master’s degree in Computer Science, Software Engineering or equivalent.
+Experience with Quality Assurance within an Agile methodology.
+Experience with automation frameworks (Selenium, Robot, Apache JMeter).
+Experience with evaluating, recommending, and deploying new tools and technologies to continually improve the efficiency and effectiveness of the Quality Assurance process.
+Experience with various database technologies (such as MySQL, Cassandra, MongoDB).
+Experience in server virtualization, especially VMWare and VSphere.
+General networking skills (Layer 2 & 3 switches, TCP/IP, SNMP, etc.).
+Benefits
+
+OSI offers a comprehensive benefit package to our full-time regular employees. Additional perks include flexible work hours, employee events, casual dress code and more. Check out our Life at OSI Facebook page to see more.
+
+As an employee of OSI you will have access to cutting edge technologies in a fun, professional, positive and dynamic work environment. We have excellent opportunities for growth and development.

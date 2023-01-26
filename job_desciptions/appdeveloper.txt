@@ -1,0 +1,25 @@
+App developer
+Responsibilities:
+Understand client requirements and how they translate in application features
+Collaborate with a team of IT professionals to set specifications for new applications
+Design creative prototypes according to specifications
+Write high quality source code to program complete applications within deadlines
+Perform unit and integration testing before launch
+Conduct functional and non-functional testing
+Troubleshoot and debug applications
+Evaluate existing applications to reprogram, update and add new features
+Develop technical documents and handbooks to accurately represent application design and code
+Experience: 0-3 years
+Requirements and Skills:
+Familiarity with Git 
+Familiarity with push notifications
+Understanding mobile app design guidelines on each platform and being aware of their differences.
+Proficiency in Kotlin, Swift, Java, Python 
+Proven experience as application developer
+Experience in designing and building applications
+Ability to program in at least one programming language such as C#, Java (J2EE) etc.
+Excellent understanding of software design and programming principles.
+A team player with excellent communication skills
+Analytical thinking and problem-solving capability
+Great attention to detail and time-management skills
+4 years of Bachelor's degree in Computer Science / Information Technology is preferable  
